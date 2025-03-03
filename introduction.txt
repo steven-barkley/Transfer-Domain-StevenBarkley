@@ -1,3 +1,12 @@
 I need to transfer a domain from Netlify to AWS.
 
 How is this done and what challenges will be presented?
+
+Step 1 Learn about Netlify and how to safely move domain back to hostinger
+Step 2 Learn about Hostinger and how to safely move domain to AWS
+Step 3 Renew Domain on AWS
+
+I am worried but I will just do what I think will work and help trying other solutions. 
+I have watched videos but none I found give we the whole solution. 
+
+I will delete my domain from Netlify and Hope that help the Hostinger account get access back
