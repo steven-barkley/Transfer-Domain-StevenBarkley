@@ -17,3 +17,5 @@ I learned I have an expired TLS/Secure Socket License  so I am trying to fix it.
 The domain may not be hosted on Hostinger and I don't know about the Nameservers either.
 
 I am using the support feature of Hostinger now....
+
+The solution was that the domain was expired and owned by someone else. Part of me knew but did not want to believe it.
