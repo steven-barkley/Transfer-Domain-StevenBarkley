@@ -15,3 +15,5 @@ I deleted the Netlify hosting and no changes
 I learned I have an expired TLS/Secure Socket License  so I am trying to fix it. 
 
 The domain may not be hosted on Hostinger and I don't know about the Nameservers either.
+
+I am using the support feature of Hostinger now....
