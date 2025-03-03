@@ -10,3 +10,8 @@ I am worried but I will just do what I think will work and help trying other sol
 I have watched videos but none I found give we the whole solution. 
 
 I will delete my domain from Netlify and Hope that help the Hostinger account get access back
+
+I deleted the Netlify hosting and no changes
+I learned I have an expired TLS/Secure Socket License  so I am trying to fix it. 
+
+The domain may not be hosted on Hostinger and I don't know about the Nameservers either.
