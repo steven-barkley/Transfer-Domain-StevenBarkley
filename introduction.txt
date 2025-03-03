@@ -1,0 +1,3 @@
+I need to transfer a domain from Netlify to AWS.
+
+How is this done and what challenges will be presented?
